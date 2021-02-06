@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Virajj28/Virajj28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![HitCount](http://hits.dwyl.com/Virajj28/Virajj28.svg)](http://hits.dwyl.com/Virajj28/Virajj28)
 
-Here are some ideas to get you started:
+### " When something is important you do it even if odds in your favour. " - Elon Musk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Life gist :
+
+- 🔭 I’m currently studying in Mumbai University.
+- 🌱 I’m currently learning to manage my time for better productivity, Javascript & Java .
+- 🤔 I’m looking for help with learning DSA in C++ and an internship opportunities.
+- 💬 Ask me about my journey of being familiar with GitHub which I've documented through blogs.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/viraj-jadhav-b717121b7/)
+                       [Medium](https://viraj28j.medium.com/) 
+- ⚡ Fun fact: I'm a guy who lifts weights when not coding.
+
