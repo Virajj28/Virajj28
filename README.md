@@ -2,7 +2,7 @@
 
  [![HitCount](http://hits.dwyl.com/Virajj28/Virajj28.svg)](http://hits.dwyl.com/Virajj28/Virajj28)
 
-### " When something is important you do it even if odds in your favour. " - Elon Musk
+### " When something is important enough, you do it even if the odds are not in your favour. " - Elon Musk
 
 My Life gist :
 
