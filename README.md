@@ -7,7 +7,7 @@
 
 My Life gist :
 
-- 🔭 I’m from Mumbai University.
+- 🔭 Graduated in 2021 from Mumbai University.
 - 🌱 I’m currently learning to manage my time for better productivity,Reactstrap,Tailwind,Javascript,ReactJS,NextJS.
 - 🤔 I’m looking for help with open source contribution into any organization would love to make code changes for a great impact.
 - 💬 Ask me about my journey of being familiar with GitHub which I've documented through blogs.
