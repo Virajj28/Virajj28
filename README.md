@@ -15,5 +15,5 @@ My Life gist :
                        [Medium](https://viraj28j.medium.com/) 
 - ⚡ Fun fact: I'm a guy who lift weights when not coding.
 
-![](https://hit.yhype.me/github/profile?user_id=71481611)
+![snake gif](https://github.com/Virajj28/Virajj28/blob/output/github-contribution-grid-snake.gif)
 
