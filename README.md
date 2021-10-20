@@ -16,11 +16,15 @@ My Life gist :
 ## Connect with Me 📬:
 <p align="left">
  
- <a href = "https://www.linkedin.com/in/viraj-jadhav-b717121b7/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+ <a href = "https://www.linkedin.com/in/viraj-jadhav-b717121b7/"><img src="https://img.icons8.com/fluent/36/000000/linkedin.png"></a>
  
- <a href = "https://twitter.com/VirajJa83062455?s=09/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
+ <a href = "https://twitter.com/VirajJa83062455?s=09/"><img src="https://img.icons8.com/fluent/36/000000/twitter.png"></a>
  
  </p>
+ 
+ [![GitHub](https://github-readme-streak-stats.herokuapp.com?user=Virajj28&theme=nord&hide_border=true)](https://git.io/streak-stats)
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=Virajj28&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
 
 ![snake gif](https://github.com/Virajj28/Virajj28/blob/output/github-contribution-grid-snake.gif)
 
