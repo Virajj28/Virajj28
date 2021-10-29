@@ -2,8 +2,8 @@
  ![](https://komarev.com/ghpvc/?username=Virajj28&color=blue&style=plastic)
 ### " When something is important enough, you do it even if the odds are not in your favour. " - Elon Musk
 - 🔭 Graduated in 2021 from Mumbai University.
-- 🌱 I’m currently learning to manage my time for better productivity,TailwindCSS,Javascript,ReactJS,NextJS,Shopify(Liquid).
-- 🤔 I’m looking for an organization in which would love to make code changes for a great impact.
+- 🌱 I’m learning to manage my time for better productivity,TailwindCSS,Javascript,ReactJS,NextJS,Shopify(Liquid).
+- 🤔 I’m looking for an organization where I can make code changes for a great impact.
 - 💬 Ask me about my journey of being familiar with GitHub which I've documented through blogs on [Medium](https://viraj28j.medium.com/). 
 - ⚡ Fun fact: I'm a guy who lift weights when not coding.
 
