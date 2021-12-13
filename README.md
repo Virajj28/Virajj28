@@ -1,4 +1,4 @@
-# Hey,Viraj this side 👋
+# Hello 👋
  ![](https://komarev.com/ghpvc/?username=Virajj28&color=blue&style=plastic)
 ### " When something is important enough, you do it even if the odds are not in your favour. " - Elon Musk
 - 🔭 Graduated in 2021 from Mumbai University.
