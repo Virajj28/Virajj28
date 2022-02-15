@@ -15,11 +15,13 @@
  
  ## 🏆 Github Stats
  
- <p>
+ <div>
+ 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Virajj28&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api?username=Virajj28&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
- </p>
+ 
+ </div>
  
  <img src="https://activity-graph.herokuapp.com/graph?username=Virajj28&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB"> 
  
