@@ -23,6 +23,6 @@
  
  </div>
  
- <img src="https://activity-graph.herokuapp.com/graph?username=Virajj28&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB"> 
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=Virajj28&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">  -->
  
 <!-- ![snake gif](https://github.com/Virajj28/Virajj28/blob/output/github-contribution-grid-snake.gif) -->
