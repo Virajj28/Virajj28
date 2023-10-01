@@ -1,11 +1,11 @@
 # Hello 👋
  ![](https://komarev.com/ghpvc/?username=Virajj28&color=blue&style=plastic)
-### " When something is important enough, you do it even if the odds are not in your favour. " - Elon Musk
-- 🔭 Graduated in 2021 from Mumbai University.
-- 🌱 I’m learning to manage my time for better productivity with skills i.e. TailwindCSS, MaterialUI, Javascript, Typescript, ReactJS, NextJS, Shopify(Liquid), Shogun, NodeJS.
-- 🤔 I’m looking for an organization where I can make code changes for a great impact and on take time on weekends to learn Blockchain technology.
+### " When something is important enough, do it even if the odds are stacked against you. "
+- 🔭 A Full-Stack Software Developer with couple of years of industrial experience & still counting.
+- 🌱 I’m learning to manage my time for better productivity with skills i.e. TailwindCSS, Javascript, Typescript, ReactJS, ExpressJS, Typeorm, MS SQL, PostgreSQL, Docker, AWS(S3, SQS/SNS), React-Native.
+<!-- - 🤔 I’m looking for an organization where I can make code changes for a great impact and on take time on weekends to learn Blockchain technology. -->
 - 💬 Ask me about my journey of being familiar with GitHub which I've documented through blogs on [Medium](https://viraj28j.medium.com/). 
-- ⚡ Fun fact: I'm a guy who lift weights when not coding.
+- ⚡ Fun fact: I'm a guy who lift weights to take break from coding.
 
 ## Connect with Me 📬:
 <p align="left">
@@ -19,7 +19,7 @@
  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Virajj28&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Virajj28&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Virajj28&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">  -->
  
  </div>
  
