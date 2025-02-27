@@ -11,7 +11,8 @@
  <a href = "https://www.linkedin.com/in/viraj-jadhav-b717121b7/"><img src="https://img.icons8.com/fluent/36/000000/linkedin.png"></a> 
  <a href = "https://twitter.com/VirajJa83062455?s=09/"><img src="https://img.icons8.com/fluent/36/000000/twitter.png"></a>
  </p>
- 
+
+  <!--
  ## 🏆 Github Stats
  
  <div>
@@ -20,7 +21,7 @@
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Virajj28&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">  -->
  
- </div>
+<!--  </div> 
  
 <!--  <img src="https://activity-graph.herokuapp.com/graph?username=Virajj28&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">  -->
  
