@@ -1,8 +1,8 @@
 # Hello 👋
  ![](https://komarev.com/ghpvc/?username=Virajj28&color=blue&style=plastic)
 ### " When something is important enough, do it even if the odds are stacked against you. "
-- 🔭 A Full-Stack Software Developer with couple of years of industrial experience & still counting.
-- 🌱 I’m learning to manage my time for better productivity with skills i.e. TailwindCSS, Javascript, Typescript, ReactJS, ExpressJS, Typeorm, MS SQL, PostgreSQL, Docker, AWS(S3, SQS/SNS), React-Native.
+- 🔭 A Full-Stack Software Developer with four years of industrial experience & still counting.
+- 🌱 I’m learning to manage my time for better productivity with skills i.e. TailwindCSS, Javascript, Typescript, ReactJS, NextJS(Beginner), NodeJS, ExpressJS, NestJS(Beginner),Typeorm, MS-SQL, PostgreSQL, Docker, AWS(S3, SQS/SNS), React-Native.
 - 💬 Ask me about my journey of being familiar with GitHub which I've documented through blogs on [Medium](https://viraj28j.medium.com/). 
 - ⚡ Fun fact: I'm a guy who lift weights to take break from coding.
 <!-- - 🤔 I’m looking for an organization where I can make code changes for a great impact and on take time on weekends to learn Blockchain technology. -->
